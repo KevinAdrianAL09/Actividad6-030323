@@ -25,7 +25,7 @@
 <a href="{{ route('productos.create') }}">Crear un nuevo producto</a>
 <a href="{{ route('productos.edit', $producto) }}">Editar este producto</a>
 
-
+<a href="{{ route('productos.create') }}">Agregar producto</a>
 
 
 
